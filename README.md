@@ -1,6 +1,5 @@
+<img src="https://raw.githubusercontent.com/abeer01000001/earthy/master/assets/images/icon.png" width="150">  
 # earthy
-
-<img src="https://raw.githubusercontent.com/abeer01000001/earthy/master/assets/images/icon.png" width="200">
 
 ### Description
 
