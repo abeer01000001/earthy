@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "220359006214",
+    "firebase_url": "https://earthy-a5686.firebaseio.com",
+    "project_id": "earthy-a5686",
+    "storage_bucket": "earthy-a5686.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220359006214:android:985fd796404186b3504b87",
+        "android_client_info": {
+          "package_name": "com.example.nasa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220359006214-v7h21nh6ean317lrjjcelojb21a82sj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUqHlaeoCDEQZmweWFh3oX-Am_gwlpcDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220359006214-v7h21nh6ean317lrjjcelojb21a82sj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
